@@ -1,1 +1,1 @@
-b599a757219eb676e65dd11be935ad5aac7e1d65daa7729de9a3fb482b0a2daa  MandAPI-Connect-Setup.exe
+c4c9291ab5b06eee08094aa03103a05c233cdeaf73bdf31e4ccd1643cf2a090c  MandAPI-Connect-Setup.exe
