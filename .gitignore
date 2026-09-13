@@ -1,0 +1,8 @@
+# Build/release artifacts — never commit binaries to git.
+# Installers are distributed via GitHub Releases assets, not git.
+*.exe
+*.exe.blockmap
+*.zip
+latest.yml
+builder-debug.yml
+builder-effective-config.yaml
